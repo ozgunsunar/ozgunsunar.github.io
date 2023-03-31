@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ozgunsunar.github.io/resume/sitemap.xml
+Sitemap: https://ozgunsunar.github.io/sitemap.xml
