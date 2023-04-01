@@ -1,9 +1,8 @@
 ---
-layout: link
-title: A long announcement with details
-date: 2020-11-19 15:59:00-0400
+layout: post
+date: 2015-10-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-<a href='https://www.globalrailwayreview.com/news/114099/research-cost-efficient-electrification-uk-rail-network/'>Research focuses on cost-efficient electrification of UK rail network</a>
+A simple inline announcement.
