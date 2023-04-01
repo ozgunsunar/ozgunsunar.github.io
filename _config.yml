@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Özgün
+first_name: Dr Özgün
 middle_name:
 last_name: Sunar
 email: ozgunsunar@eskisehir.edu.tr
@@ -260,10 +260,10 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sunar]
+  first_name: [Özgün]
 
-  style: apa
+  style: ieeee
   locale: en
 
   source: /_bibliography/
