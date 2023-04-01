@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: link
+title: A long announcement with details
 date: 2020-11-19 15:59:00-0400
 inline: true
 related_posts: false
