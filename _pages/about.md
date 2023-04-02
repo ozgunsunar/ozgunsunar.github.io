@@ -20,7 +20,7 @@ An engineering based academic, working at ESTU. My main research areas are `rail
 
 Beside my work, I built an platform named [Mechead.com](http://www.mechead.com) 5 years ago, which has been voluntarily serving for those who are in search of different things whats and whys in engineering area since it was found. 
 
-Please check my agenda to see my availability and welcome to drop me an email for your further questions. 
+Please check my [agenda page](/agenda) to see my availability and welcome to drop me an email for your further questions. 
 
 
 
