@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant Professor at Eskisehir Technical University</a>. <br>
-Basın Şehitleri Cad. No: 152. 0(222) 213 76 99 (ex:7699) Moto. Etc.
+subtitle: Assistant Professor at Eskisehir Technical University
+
 
 profile:
   align: right
