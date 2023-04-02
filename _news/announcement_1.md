@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-deneme.
+<a href="https://www.railwaygazette.com/uk/research-aims-to-reduce-electrification-costs/57824.article">Research aims to reduce electrification costs</a>
