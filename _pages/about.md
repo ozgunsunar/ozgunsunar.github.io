@@ -18,8 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 An engineering based academic, working at ESTU. My main research areas are `railway electrification (OLE)` , `solid mechanics`, `finite element method`, `fatigue` and `material's metallurgy`. Tell the world about yourself. 
 
-Beside my work, I built an platform named [Mechead.com](http://www.mechead.com) 5 years ago, which has been voluntarily serving for those who are in search of different things whats and whys in engineering area since it was found. 
+Beside my work, I built an platform named `[Mechead.com](http://www.mechead.com)` 5 years ago, which has been voluntarily serving for those who are in search of different things whats and whys in engineering area since it was found. 
 
 Please check my agenda to see my availability and welcome to drop me an email for your further questions. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Özgün
+
+
