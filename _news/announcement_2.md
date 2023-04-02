@@ -1,8 +1,7 @@
 ---
 layout: post
-
 date: 2020-11-20 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
