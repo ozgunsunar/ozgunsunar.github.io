@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://www.globalrailwayreview.com/news/114099/research-cost-efficient-electrification-uk-rail-network/" Research focuses on cost-efficient electrification of UK rail network </a>
+<a href="https://www.globalrailwayreview.com/news/114099/research-cost-efficient-electrification-uk-rail-network/"> Research focuses on cost-efficient electrification of UK rail network </a>
