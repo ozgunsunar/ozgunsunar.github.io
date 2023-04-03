@@ -17,9 +17,9 @@ Organize your courses by years, topics, or universities, however you like!
  - IKT356 Engineering Economics
  - RAY551 Railway Electrification
  
-  `Spring Semester` <br>
-  -TRS102 Teknik Resim
-  -MKM    Engineering Failure Analysis
-  -RAY    Advanced Finite Element Analysis
-  -MEK104 Statik/Mukavemet
-  -RAY130 Makine Bilgisi
+ `Spring Semester` <br>
+ - TRS102 Teknik Resim
+ - MKM    Engineering Failure Analysis
+ - RAY    Advanced Finite Element Analysis
+ - MEK104 Statik/Mukavemet
+ - RAY130 Makine Bilgisi
