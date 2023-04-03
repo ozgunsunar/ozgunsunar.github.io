@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 An engineering based academic, working at ESTU. My main research areas are `railway electrification (OLE)` , `solid mechanics`, `finite element method`, `fatigue` and `material's metallurgy`.
 
-Beside my work, I built an platform named [Mechead.com](http://www.mechead.com) years ago, which has been voluntarily serving for those who are in search of different things whats and whys in engineering area since it was found. 
+Beside my work, I built an platform named [Mechead.com](http://www.mechead.com) five years ago, which has been voluntarily serving for those who are in search of different things whats and whys in engineering area since it was found. 
 
 Please check my [agenda page](/agenda) to see my availability and welcome to drop me an email for your further questions. 
 
