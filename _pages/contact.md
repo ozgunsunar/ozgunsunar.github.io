@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: contact
-description: Please primarily use email to reach me out.
+description: Please primarily use the email option to reach me out.
 nav: true
 nav_order: 6
 ---
