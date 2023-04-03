@@ -2,96 +2,99 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Özgün Sunar
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th April 1990
     - name: Languages
-      value: English, German
+      value: Turkish, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: The University of Sheffield, Sheffield, The United Kingdom
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Mechanical Engineering.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Thesis / Arc Damage Identification and Its Effects on Fatigue Life of Contact Wires in Railway Overhead Lines
+    - title: MSc
+      institution: Celal Bayar University, Manisa, Turkey
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Mechanical Engineering
+    - title: BSc
+      institution: Pamukkale University, Denizli, Turkey
+      year: 2012
+      description:
+        - Mechanical Engineering
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Assistant Professor 
+      institution: Railway Systems and Technologies, Eskisehir Technical University, Turkey
+      year: 2023 - ...
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Lecturer
+      institution: Railway Systems and Technologies, Eskisehir Technical University, Turkey
+      year: 2021- 2023
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant
+      institution: Mechanical Engineering, The University of Sheffield Sheffield, The United Kingdom.
+      year: 2016-2021
 
-- title: Open Source Projects
+    - title: Lecturer
+      institution: Celal Bayar University, Manisa, Turkey
+      year: 2013 - 2016
+      description:
+
+    - title: Production Engineer
+      institution: NEKA Mold Inc. , Manisa,  Turkey
+      year: 2012 - 2013
+
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Fatigue Analysis of Single Leaf Springs with Finite Element Method
+      year: 2013-2015
+      description: Supported by Turkish Ministery of Science, Industry and Technology, Industrial Thesis Program (SAN-TEZ) under grant no. 0369.STZ.2013-2
 
 - title: Honors and Awards
   type: time_table
-  contents:
-    - year: 1921
+  contents: 
+    - year: 2015
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - PhD scholarship Nobel Prize in Physics (Granted by Turkish Ministry of National Education to study in field of Railway System in the UK)
+        
+    - year: 2013
       items: 
-        - Max Planck Medal
+        - 3rd Place BSc Graduation (3.34/4=
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Finite element analysis.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Static Structural Analysis.
+        - Time depended Anaylsis.
+        - Mesh optimisation
+    - title: Mechanics.
       items:
-        - Description 1.
-        - Description 2.
+        - Solid mechanics
+        - Fracture mechanics
+        - Fatigue
+        - Wear
+    - title: Materials Science.
+      items:
+        - Optical Metallurgy
+        - Microstructure
+        - Micropreparation
+       
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Electric guitar, intrumental musics, cycling
