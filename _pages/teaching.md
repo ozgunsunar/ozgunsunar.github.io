@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I teach fall and springs semesters
+description: Courses that I actively teach fall and springs semesters
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Courses below includes both undergraduation and post-graduation levels. Feel free to drop an email about lecture materials.
 
-Organize your courses by years, topics, or universities, however you like!
+with no order;
 
  `Fall Semester` <br>
  - TRS127 Technical Drawing
