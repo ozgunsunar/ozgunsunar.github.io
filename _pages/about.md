@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-An engineering based academic, working at ESTU. 
+<br> 
 
 My main research areas are `railway electrification (OLE)` , `solid mechanics`, `finite element method`, `fatigue` and `material's metallurgy`.
 
