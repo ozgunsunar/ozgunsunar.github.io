@@ -24,7 +24,7 @@ Please check my [agenda page](/agenda) to see my availability and welcome to dro
 
 Beside my work, I built an platform named [Mechead.com](http://www.mechead.com) five years ago, which has been voluntarily serving for those who are in search of different things whats and whys in engineering area since it was found. 
 
- [<img src="https://ozgunsunar.com/assets/img/invertdefault.png"  style="max-width: 70%;">](http://www.mechead.com)
+ [<img src="https://ozgunsunar.com/assets/img/invertretina.png">](http://www.mechead.com)
 
 
 
