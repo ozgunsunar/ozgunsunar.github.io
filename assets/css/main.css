@@ -900,4 +900,8 @@ body {
   filter: grayscale(100%) invert(92%) contrast(83%);
 }
 
+.contact-icons {
+  font-size: 2.5rems;
+}
+
 /*# sourceMappingURL=main.css.map */
