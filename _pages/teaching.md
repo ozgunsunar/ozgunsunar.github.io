@@ -15,11 +15,11 @@ with no order;
  - TRS127 Technical Drawing
  - TRS127 Teknik Resim
  - IKT356 Engineering Economics
- - RAY551 Railway Electrification
+ - RYL551 Railway Electrification
  
  `Spring Semester` <br>
  - TRS102 Teknik Resim
- - MKM    Engineering Failure Analysis
- - RAY    Advanced Finite Element Analysis
+ - MKM536 Engineering Failure Analysis
+ - RYL564 Advanced Finite Element Analysis
  - MEK104 Statik/Mukavemet
  - RAY130 Makine Bilgisi
