@@ -13,13 +13,12 @@ with no order;
 
  `Fall Semester` <br>
  - TRS127 Technical Drawing
- - TRS127 Teknik Resim
- - IKT356 Engineering Economics
+ - MKM423 Welding Technology
  - RYL551 Railway Electrification
  
  `Spring Semester` <br>
  - TRS102 Teknik Resim
  - MKM536 Engineering Failure Analysis
  - RYL564 Advanced Finite Element Analysis
- - MEK104 Statik/Mukavemet
- - RAY130 Makine Bilgisi
+ - MEK104 Strength of Materials
+ - RAY130 Machine Elements
