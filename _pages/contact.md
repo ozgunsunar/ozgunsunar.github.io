@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<b>Adress:</b> Osmangazi, Basın Şehitleri Cd. No:152, 26140 Odunpazarı/Eskişehir <br>
+<b>Adress:</b> Uçak Mühendisliği, Gazipaşa Mahallesi, Eskişehir Teknik Üniversitesi İki Eylül Kampüsü 26555, Tepebaşı/ESKİŞEHİR <br>
 <b>Phone:</b> +90(222) 213 76 99 (Ex:7699)<br>
 <b>Email:</b> ozgunsunar@eskisehir.edu.tr <br>
 
