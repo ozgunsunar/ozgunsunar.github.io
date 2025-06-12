@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at Eskisehir Technical University
+subtitle: Assistant Professor in the Department of Aeronautical Engineering at Eskisehir Technical University
 
 
 profile:
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 <br> 
 
-My main research areas are `railway electrification (OLE)` , `solid mechanics`, `finite element method`, `fatigue` and `material's metallurgy`.
+My main research areas are   `solid mechanics`, `finite element method`, `fatigue` and `materials science`.
 
 Please check my [agenda page](/agenda) to see my availability and welcome to drop me an email for your further questions. 
 
