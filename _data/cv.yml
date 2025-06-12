@@ -33,9 +33,13 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Assistant Professor 
+      institution: Aeronautical Engineering, Eskisehir Technical University, Turkey
+      year: 2025 - ...
+      
     - title: Assistant Professor 
       institution: Railway Systems and Technologies, Eskisehir Technical University, Turkey
-      year: 2023 - ...
+      year: 2023 - 2025
 
     - title: Lecturer
       institution: Railway Systems and Technologies, Eskisehir Technical University, Turkey
