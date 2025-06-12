@@ -33,7 +33,8 @@
 - title: Experience
   type: time_table
   contents:
-      - title: Assistant Professor 
+      
+    - title: Assistant Professor 
       institution: Aeronautical Engineering, Eskisehir Technical University, Turkey
       year: 2025 - ...
       
@@ -47,7 +48,7 @@
       description:
 
     - title: Research Assistant
-      institution: Mechanical Engineering, The University of Sheffield Sheffield, The United Kingdom.
+      institution: Mechanical Engineering, The University of Sheffield, Sheffield, The United Kingdom.
       year: 2016-2021
 
     - title: Lecturer
