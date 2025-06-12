@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor in the Department of Aeronautical Engineering at Eskisehir Technical University
+subtitle: Assistant Professor at Eskisehir Technical University
 
 
 profile:
